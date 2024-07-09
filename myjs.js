@@ -1,1 +1,1 @@
-alert("阿萬歩のおすすめラーメン紹介です。");
+alert('Hello,Ayumu!');
